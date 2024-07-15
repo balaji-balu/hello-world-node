@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules
+npm-debug.log
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+bower_components
+jspm_packages
+
+# Environment variables
+.env
+
+# Docker files
+Dockerfile
+docker-compose.yml
+
+# Miscellaneous
+.DS_Store
+*.md
+
+# Editor directories and files
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
